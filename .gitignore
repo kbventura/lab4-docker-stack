@@ -1,1 +1,2 @@
 filebeat/filebeat.yml
+suricata/rules/
